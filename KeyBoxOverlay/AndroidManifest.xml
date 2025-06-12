@@ -5,8 +5,8 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="net.pixelos.keybox.overlay"
-    android:versionCode="250605"
-    android:versionName="2506.05">
+    android:versionCode="250612"
+    android:versionName="2506.12">
 
     <application android:hasCode="false"/>
     <overlay android:targetPackage="android"/>

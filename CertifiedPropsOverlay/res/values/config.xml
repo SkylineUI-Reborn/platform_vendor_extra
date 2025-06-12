@@ -20,14 +20,14 @@
         <item>TAGS:release-keys</item>
         <item>ID:BP31.250502.008</item>
         <item>BRAND:google</item>
-        <item>DEVICE:oriole</item>
-        <item>FINGERPRINT:google/oriole_beta/oriole:16/BP31.250502.008/13497110:user/release-keys</item>
+        <item>DEVICE:raven</item>
+        <item>FINGERPRINT:google/raven_beta/raven:16/BP31.250502.008/13497110:user/release-keys</item>
         <item>MANUFACTURER:Google</item>
-        <item>MODEL:Pixel 6</item>
-        <item>PRODUCT:oriole_beta</item>
+        <item>MODEL:Pixel 6 Pro</item>
+        <item>PRODUCT:raven_beta</item>
         <item>INCREMENTAL:13497110</item>
         <item>RELEASE:16</item>
         <item>SECURITY_PATCH:2025-05-05</item>
-        <item>DEVICE_INITIAL_SDK_INT:30</item>
+        <item>DEVICE_INITIAL_SDK_INT:31</item>
     </string-array>
 </resources>
